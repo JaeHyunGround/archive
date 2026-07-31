@@ -66,3 +66,15 @@
 재현 / 9월 3주차 / 5문제
 ```
 - PR Comment: 자유롭게 작성 가능
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/JaeHyunGround/archive/tree/main/0066-plus-one/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/JaeHyunGround/archive/tree/main/0066-plus-one/) | Easy |
+<!---LeetCode Topics End-->
