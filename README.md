@@ -77,6 +77,7 @@
 | [0066-plus-one](https://github.com/JaeHyunGround/archive/tree/main/0066-plus-one/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JaeHyunGround/archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/JaeHyunGround/archive/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/JaeHyunGround/archive/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JaeHyunGround/archive/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/JaeHyunGround/archive/tree/main/0217-contains-duplicate/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JaeHyunGround/archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/JaeHyunGround/archive/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
