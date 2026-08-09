@@ -76,14 +76,17 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaeHyunGround/archive/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/JaeHyunGround/archive/tree/main/0066-plus-one/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JaeHyunGround/archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0189-rotate-array](https://github.com/JaeHyunGround/archive/tree/main/0189-rotate-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/JaeHyunGround/archive/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/JaeHyunGround/archive/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaeHyunGround/archive/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/JaeHyunGround/archive/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
